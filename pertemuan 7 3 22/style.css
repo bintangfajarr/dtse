@@ -1,0 +1,57 @@
+/* h1 {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+.skyblue {
+    background-color: skyblue;
+}
+
+#fancy {
+    font-weight: bold;
+    text-shadow: 4px 4px 3px #77f;
+}
+
+
+/* a[href$="com"i] {
+    background-color: brown;
+} */
+
+
+/* 
+span {
+    color: tomato;
+}
+
+* {
+    color: green;
+    margin: 0;
+    padding: 0;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Noto+Sans+SC&display=swap');
+*[lang^=en] {
+    font-style: italic;
+}
+
+*.warning {
+    color: red;
+}
+
+*#content {
+    border: 1px solid blue;
+}
+
+* {
+    font: italic 300 small-caps 30px serif;
+}
+
+body {
+    background-image: url(maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-color: ;
+}
